@@ -6,6 +6,20 @@ Download the “Product Sentiment” dataset from the course portal: sentiment_t
 -	Use your favorite ML algorithm to train a classification model.  Don’t forget everything that we’ve learned in our ML course: hyperparameter tuning, cross validation, handling imbalanced data, etc. Make reasonable decisions and try to create the best-performing classifier that you can.
 -	Use the testing data to measure the accuracy and F1-score of your model. 
 
+## Model Development
+- Data EDA
+- Preporcessing with stopwords, unidecode & Lemmatizer
+- Pipeline via TfidfVectorizer condect via
+  - Decision Tree
+  - Random Forest
+  - Knn
+  - XGBoost
+  - Regression 
+  - ADBoost
+  - GBT
+  - MLP
+  - NMF
+  
 ## Results
 -	Model F1: 75%
 - Model Accuracy: 75%
